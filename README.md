@@ -33,4 +33,4 @@ Developed a computer vision-based system to address critical road safety challen
 4. Generate the Analytics Report: `python src/export_to_csv.py`
 
 ## Dashboard Preview
-![Project Dashboard](visuals/dashboard_screenshot.png)
+![Project Dashboard](visuals/dashboard.png)
