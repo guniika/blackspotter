@@ -27,10 +27,10 @@ Developed a computer vision-based system to address critical road safety challen
 * **Impact:** Designed to reduce response time and lower hypothetical insurance claim costs by 20%.
 
 ## Installation & Usage
-1. Clone the repository: `git clone https://github.com/yourusername/BlackSpotter_AI.git`
+1. Clone the repository: `git clone https://github.com/guniika/BlackSpotter_AI.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the AI Engine: `python src/blackspotter_final.py`
 4. Generate the Analytics Report: `python src/export_to_csv.py`
 
 ## Dashboard Preview
-*(Insert your PowerBI Dashboard Screenshot here)*
+![Project Dashboard](visuals/dashboard_screenshot.png)
